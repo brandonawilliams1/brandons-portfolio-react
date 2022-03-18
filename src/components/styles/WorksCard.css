@@ -1,0 +1,10 @@
+.workscard{
+    width: 100%;
+    height: 100vh;
+    background: var(--clr-black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
