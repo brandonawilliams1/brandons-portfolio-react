@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-https://brandonawilliams1.github.io/brandons-portfolio-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
