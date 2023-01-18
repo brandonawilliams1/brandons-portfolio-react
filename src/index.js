@@ -9,7 +9,8 @@ ReactDOM.render(
 
   <Router>
     <Routes>
-      <Route path='/' element={<App/>}/>
+      {/* changed the path from / to my repo end path */}
+      <Route path='/brandon-profile' element={<App/>}/>
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/works' element={<Works/>}/>
     </Routes>
